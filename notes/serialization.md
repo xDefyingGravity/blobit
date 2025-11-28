@@ -1,6 +1,4 @@
-Here’s a completed Markdown doc for your Blobit default serializer:
-
-# blobit serialization
+Blobit serialization
 
 `blobit-cli`
 
